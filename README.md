@@ -1,9 +1,9 @@
 # ProductAPI - ASP.NET Core Web API
 
-## 🎯 Descripción
+## Descripción
 API REST creada con ASP.NET Core 6 para gestionar productos y sus categorías. Incluye funcionalidades CRUD, validaciones, uso de AutoMapper, Swagger y estructura por capas.
 
-## 🧱 Tecnologías
+## Tecnologías
 - .NET 6
 - Entity Framework Core
 - MySql (Code First)
@@ -11,7 +11,7 @@ API REST creada con ASP.NET Core 6 para gestionar productos y sus categorías. I
 - Swagger (Swashbuckle)
 - DataAnnotations
 
-## ▶️ Cómo ejecutar
+## Cómo ejecutar
 
 1. Clona o descomprime el proyecto.
 2. Asegúrate de tener instalado:
@@ -34,7 +34,7 @@ dotnet run
 
 5. Abre Swagger en: `http://localhost:5000/swagger` (según tu configuración).
 
-## 📦 Endpoints principales
+## Endpoints principales
 
 ### Categorías
 - `GET /api/categorias`

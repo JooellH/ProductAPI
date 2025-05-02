@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Be1qRWIMqQ=",
+  "dgSpecHash": "Y4TQ9zF1N0k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JH\\Desktop\\ProductAPI_MySQL\\ProductAPI\\ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\JH\\Desktop\\ProductAPI_Updated\\ProductAPI\\ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JH\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\JH\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
