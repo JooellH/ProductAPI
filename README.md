@@ -32,7 +32,7 @@ dotnet ef database update
 dotnet run
 ```
 
-5. Abre Swagger en: `http://localhost:5000/swagger` (según tu configuración).
+5. Abre Swagger en: `http://localhost:5000/swagger`.
 
 ## Endpoints principales
 
